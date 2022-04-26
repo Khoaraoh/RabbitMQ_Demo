@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "rabbitmq_demo",
+  "version": "1.0.0",
+  "description": "project to demo test RabbitMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
